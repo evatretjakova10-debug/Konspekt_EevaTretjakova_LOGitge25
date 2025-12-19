@@ -1,0 +1,2 @@
+# Konspekt_EevaTretjakova_LOGitge25
+Programmaluste konspekt
