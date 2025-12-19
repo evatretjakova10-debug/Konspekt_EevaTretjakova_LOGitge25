@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\bin\Debug\net8.0\1Project.exe
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\bin\Debug\net8.0\1Project.deps.json
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\bin\Debug\net8.0\1Project.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\bin\Debug\net8.0\1Project.dll
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\bin\Debug\net8.0\1Project.pdb
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.dll
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\refint\1Project.dll
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.pdb
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.genruntimeconfig.cache
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\ref\1Project.dll
