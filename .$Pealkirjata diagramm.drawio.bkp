@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Leht-1" id="ycwLGf1UhO_smsJozbj3">
+    <mxGraphModel dx="1683" dy="2126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WPX65UtN0svpI8_OxRqc-1" value="ALGUS" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1110" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.457;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-1" target="WPX65UtN0svpI8_OxRqc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-680" as="sourcePoint" />
+            <mxPoint x="408" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-3" target="WPX65UtN0svpI8_OxRqc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-3" value="Kuva kasutajale tekst:&lt;div&gt;&quot;palun sisesta oma vanus&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-870" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-4" target="WPX65UtN0svpI8_OxRqc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-4" value="Tekkta täisarvu tüüpi muutuja &quot;isikuVanus&quot; mille sisse omistame algväärtusena arvu 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-730" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-6" target="WPX65UtN0svpI8_OxRqc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-6" value="Oota kuni kasutaja sisestab käsureale mingisuguse väärtuse ning omista see muutujasse &quot;isikuVanus&quot;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-590" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-13" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-8" target="WPX65UtN0svpI8_OxRqc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-8" target="WPX65UtN0svpI8_OxRqc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-8" value="Kas muutujas &quot;IsikuVanus&quot; on väärtus väiksem või võrdne 0 arvuga?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-370" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-12" value="Kuva kasutajale tekst:&lt;div&gt;&quot;Ajarändureid me ei teeninda&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-320" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-14" target="WPX65UtN0svpI8_OxRqc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-20" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WPX65UtN0svpI8_OxRqc-17">
+          <mxGeometry x="-0.18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-14" value="Kas muutuja &quot;IiskuVanus&quot; on väärtus suurem kui 0 ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-140" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPX65UtN0svpI8_OxRqc-16" target="WPX65UtN0svpI8_OxRqc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-21" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WPX65UtN0svpI8_OxRqc-19">
+          <mxGeometry x="-0.3231" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-16" value="Kas muutujas &quot;isikuVanus&quot; ob väärtus väiksem kui 18?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-145" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WPX65UtN0svpI8_OxRqc-18" value="Kuva kasutajale tekst&lt;div&gt;&quot;Palun sisesta oma nimi&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

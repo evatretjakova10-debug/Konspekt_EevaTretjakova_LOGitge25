@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitge25\EevaTretjakova\1Project\obj\Debug\net8.0\1Project.csproj.CoreCompileInputs.cache
